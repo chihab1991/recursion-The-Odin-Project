@@ -1,0 +1,23 @@
+{
+  "name": "recursion-the-odin-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fibo": "nodemon fibonacci.js",
+    "mSort": "nodemon mergeSort.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chihab1991/recursion-The-Odin-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chihab1991/recursion-The-Odin-Project/issues"
+  },
+  "homepage": "https://github.com/chihab1991/recursion-The-Odin-Project#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
